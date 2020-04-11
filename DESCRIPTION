@@ -2,11 +2,16 @@ Package: wcrs
 Title: Weighted Competing Risks analysis
 Version: 0.0.0.9001
 Authors@R: 
-    person(given = "Daniele",
+    c(person(given = "Daniele",
            family = "Bottigliengo",
            role = c("aut", "cre"),
            email = "daniele.bottigliengo@phd.unipd.it",
-           comment = c(ORCID = "0000-0002-8802-3834"))
+           comment = c(ORCID = "0000-0002-8802-3834")),
+      person(given = "Corrado",
+             family = "Lanera",
+             role = c("cre", "aut"),
+             email = "corrado.lanera@unipd.it",
+             comment = c(ORCID = "0000-0002-0520-7428")))
 Description: The package provides a series of tools to
     implement a Weighted Competing Risks analysis in a unified
     framework.
