@@ -9,7 +9,7 @@ Authors@R:
            comment = c(ORCID = "0000-0002-8802-3834")),
       person(given = "Corrado",
              family = "Lanera",
-             role = c("cre", "aut"),
+             role = c("ctb"),
              email = "corrado.lanera@unipd.it",
              comment = c(ORCID = "0000-0002-0520-7428")))
 Description: The package provides a series of tools to

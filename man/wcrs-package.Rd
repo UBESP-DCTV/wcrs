@@ -21,5 +21,10 @@ Useful links:
 \author{
 \strong{Maintainer}: Daniele Bottigliengo \email{daniele.bottigliengo@phd.unipd.it} (\href{https://orcid.org/0000-0002-8802-3834}{ORCID})
 
+Other contributors:
+\itemize{
+  \item Corrado Lanera \email{corrado.lanera@unipd.it} (\href{https://orcid.org/0000-0002-0520-7428}{ORCID}) [contributor]
+}
+
 }
 \keyword{internal}
