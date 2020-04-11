@@ -5,23 +5,13 @@
 
 [![lifecycle](https://img.shields.io/badge/lifecycle-maturing-blue.svg)](https://www.tidyverse.org/lifecycle/#maturing)
 [![Travis build
-status](https://travis-ci.com/UBESP-DCTV/csm.svg?branch=master)](https://travis-ci.com/UBESP-DCTV/wcrs)
-[![AppVeyor build
-status](https://ci.appveyor.com/api/projects/status/github/UBESP-DCTV/csm?branch=master&svg=true)](https://ci.appveyor.com/project/UBESP-DCTV/wcrs)
-[![Coverage
-status](https://codecov.io/gh/UBESP-DCTV/csm/branch/master/graph/badge.svg)](https://codecov.io/gh/UBESP-DCTV/wcrs)
-[![CRAN
-status](https://www.r-pkg.org/badges/version/csm)](https://cran.r-project.org/package=wcrs)
+status](https://travis-ci.com/UBESP-DCTV/wcrs.svg?branch=master)](https://travis-ci.com/UBESP-DCTV/wcrs)
 [![AppVeyor build
 status](https://ci.appveyor.com/api/projects/status/github/UBESP-DCTV/wcrs?branch=master&svg=true)](https://ci.appveyor.com/project/UBESP-DCTV/wcrs)
-[![Travis build
-status](https://travis-ci.com/UBESP-DCTV/wcrs.svg?branch=master)](https://travis-ci.com/UBESP-DCTV/wcrs)
-[![Codecov test
-coverage](https://codecov.io/gh/UBESP-DCTV/wcrs/branch/master/graph/badge.svg)](https://codecov.io/gh/UBESP-DCTV/wcrs?branch=master)
-[![Lifecycle:
-maturing](https://img.shields.io/badge/lifecycle-maturing-blue.svg)](https://www.tidyverse.org/lifecycle/#maturing)
+[![Coverage
+status](https://codecov.io/gh/UBESP-DCTV/wcrs/branch/master/graph/badge.svg)](https://codecov.io/gh/UBESP-DCTV/wcrs)
 [![CRAN
-status](https://www.r-pkg.org/badges/version/wcrs)](https://CRAN.R-project.org/package=wcrs)
+status](https://www.r-pkg.org/badges/version/wcrs)](https://cran.r-project.org/package=wcrs)
 <!-- badges: end -->
 
 # WCRS
