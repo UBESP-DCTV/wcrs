@@ -1,6 +1,9 @@
 # wcrs (development version)
 
-2# wcrs 0.0.0.9000
+* Migrate CI to GitHub Actions to have more integrated, quick,
+  centralized workflow for continuous integrations (#5)
+
+# wcrs 0.0.0.9000
 
 * Added basic development support:
    

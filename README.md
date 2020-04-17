@@ -3,18 +3,17 @@
 
 <!-- badges: start -->
 
-[![lifecycle](https://img.shields.io/badge/lifecycle-maturing-blue.svg)](https://www.tidyverse.org/lifecycle/#maturing)
-[![Travis build
-status](https://travis-ci.com/UBESP-DCTV/wcrs.svg?branch=master)](https://travis-ci.com/UBESP-DCTV/wcrs)
-[![AppVeyor build
-status](https://ci.appveyor.com/api/projects/status/github/UBESP-DCTV/wcrs?branch=master&svg=true)](https://ci.appveyor.com/project/UBESP-DCTV/wcrs)
+[![R build
+status](https://github.com/UBESP-DCTV/wcrs/workflows/R-CMD-check/badge.svg)](https://github.com/UBESP-DCTV/wcrs/actions)
 [![Coverage
 status](https://codecov.io/gh/UBESP-DCTV/wcrs/branch/master/graph/badge.svg)](https://codecov.io/gh/UBESP-DCTV/wcrs)
+
 [![CRAN
 status](https://www.r-pkg.org/badges/version/wcrs)](https://cran.r-project.org/package=wcrs)
+[![lifecycle](https://img.shields.io/badge/lifecycle-maturing-blue.svg)](https://www.tidyverse.org/lifecycle/#maturing)
 <!-- badges: end -->
 
-# WCRS
+# wcrs
 
 The goal of *wcrs* is to provide a series of tools to implement a
 Weighted Competing Risks analysis in a unified framework.
