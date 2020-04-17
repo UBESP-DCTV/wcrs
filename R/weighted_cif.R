@@ -8,4 +8,6 @@
 #'
 #' @examples
 #'
-weighted_cif <- function() {}
+weighted_cif <- function() {
+
+}
