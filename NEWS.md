@@ -1,7 +1,9 @@
 # wcrs (development version)
 
 * Migrate CI to GitHub Actions to have more integrated, quick,
-  centralized workflow for continuous integrations (#5)
+  centralized workflow for continuous integrations (#5).
+* Activate `lintr` check on push/pull-request, automated by a GitHub
+  action (#4).
 
 # wcrs 0.0.0.9000
 
