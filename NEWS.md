@@ -1,6 +1,13 @@
 # wcrs (development version)
 
-2# wcrs 0.0.0.9000
+* Separate gh-action for master (more comprehensive) and develop (just
+  release for teh main OSs)
+* Migrate CI to GitHub Actions to have more integrated, quick,
+  centralized workflow for continuous integrations (#5).
+* Activate `lintr` check on push/pull-request, automated by a GitHub
+  action (#4).
+
+# wcrs 0.0.0.9000
 
 * Added basic development support:
    

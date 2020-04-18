@@ -1,11 +1,9 @@
 #' Estimate weighted cumulative incidence functions
 #'
 #'
-#' @param
-#'
-#' @return
+#' @return currently it returns TRUE invisibly
 #' @export
 #'
-#' @examples
-#'
-weighted_cif <- function() {}
+weighted_cif <- function() {
+  invisible(TRUE)
+}
