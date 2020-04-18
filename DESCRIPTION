@@ -21,30 +21,30 @@ BugReports: https://github.com/UBESP-DCTV/wcrs/issues
 Depends: 
     R (>= 3.2)
 Imports: 
-    assertive (>= 0.3.5),
-    checkmate (>= 1.9.4),
-    dplyr (>= 0.8.3),
-    fs (>= 1.3.2),
-    ggplot2 (>= 3.2.1),
-    glue (>= 1.3.1),
-    here (>= 0.1),
-    janitor (>= 1.2.0),
-    lubridate (>= 1.7.4),
-    magrittr (>= 1.5),
-    purrr (>= 0.3.3),
-    readr (>= 1.3.1),
-    rlang (>= 0.4.2),
-    stringr (>= 1.4.0),
-    survival (>= 3.1.12),
-    tibble (>= 2.1.3),
-    tidyr (>= 1.0.0),
-    tidyselect (>= 1.0.0),
-    usethis (>= 1.5.1)
+    assertive,
+    checkmate,
+    dplyr,
+    fs,
+    ggplot2,
+    glue,
+    he,
+    janitor,
+    lubridate,
+    magrit,
+    purrr,
+    readr,
+    rlang,
+    stringr,
+    survival ,
+    tibble,
+    tidyr,
+    tidyselect,
+    usethis
 Suggests: 
-    covr (>= 3.4.0),
-    roxygen2 (>= 7.0.2),
-    spelling (>= 2.1),
-    testthat (>= 2.3.1),
+    covr,
+    roxygen2,
+    spelling,
+    testthat,
     lintr
 Encoding: UTF-8
 Language: en-US
